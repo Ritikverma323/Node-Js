@@ -1,0 +1,10 @@
+create model schema and collections/node_modules
+create model schema and collections/databaseConnection.js
+create Routes and saving and fetching data from database/node_modules
+create Routes and saving and fetching data from database/databaseConnection.js
+database connection/node_modules
+database connection/databaseConnection.js
+router and model/node_modules
+router and model/databaseConnection.js
+saving data to database/node_modules
+saving data to database/databaseConnection.js
